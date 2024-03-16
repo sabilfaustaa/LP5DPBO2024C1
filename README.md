@@ -21,6 +21,8 @@ mataKuliah: Atribut ini merupakan daftar mata kuliah yang diambil oleh mahasiswa
 
 # Alur Program dan Screenshoot
 
+![image](https://github.com/sabilfaustaa/LP5DPBO2024C1/assets/61264687/25bf1866-9b87-4069-90a0-5916a0556745)
+
 ## Menambahkan Data Mahasiswa Baru
 1. Isi field NIM dengan Nomor Induk Mahasiswa yang unik.
 2. Isi field Nama dengan nama lengkap mahasiswa.
